@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gkji86c5a-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gkji86c5a-dotnet-basic
